@@ -167,6 +167,7 @@ function Auth({ role = 'user' }) {
         name: payload.name,
         email: payload.email,
         phone: payload.phone,
+        age : payload.age,
         password: payload.password,
         address: payload.address,
         bloodgroup: payload.bloodgroup,
