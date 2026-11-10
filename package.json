@@ -38,7 +38,8 @@
       "last 1 safari version"
     ]
   },
- "devDependencies": {
-  "ajv": "^8.17.1"
-}
+  "devDependencies": {
+    "ajv": "^7.2.4",
+    "eslint-plugin-jest": "^29.17.0"
+  }
 }
