@@ -38,7 +38,7 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "ajv": "^7.2.4"
-  }
+ "devDependencies": {
+  "ajv": "^8.17.1"
+}
 }
